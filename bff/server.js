@@ -1,9 +1,10 @@
 const express = require("express");
 const fs = require("fs");
+const cors = require("cors");
 
 const app = express();
 
-
+app.use(cors());
 app.use(express.json());
 
 const POLL_FILE = "polls.json";
