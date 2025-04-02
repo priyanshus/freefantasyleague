@@ -5,7 +5,7 @@
       "team1": "RCB",
       "team2": "GT",
       "deadline": "2025-04-02T19:25:00+05:30",
-      "winner": 0,
+      "winner": null,
       "submissions": [
       ]
     },
