@@ -1,0 +1,61 @@
+{
+  "polls": [
+    {
+      "id": 14,
+      "team1": "RCB",
+      "team2": "GT",
+      "deadline": "2025-04-02T19:25:00+05:30",
+      "winner": 0,
+      "submissions": [
+      ]
+    },
+    {
+      "id": 15,
+      "team1": "KKR",
+      "team2": "SRH",
+      "deadline": "2025-04-03T19:25:00+05:30",
+      "winner": null,
+      "submissions": []
+    },
+    {
+      "id": 16,
+      "team1": "LSG",
+      "team2": "MI",
+      "deadline": "2025-04-04T19:25:00+05:30",
+      "winner": null,
+      "submissions": []
+    },
+    {
+      "id": 17,
+      "team1": "CSK",
+      "team2": "DC",
+      "deadline": "2025-04-05T15:25:00+05:30",
+      "winner": null,
+      "submissions": []
+    },
+    {
+      "id": 18,
+      "team1": "PK",
+      "team2": "RR",
+      "deadline": "2025-04-05T19:25:00+05:30",
+      "winner": null,
+      "submissions": []
+    },
+    {
+      "id": 20,
+      "team1": "SRH",
+      "team2": "GT",
+      "deadline": "2025-04-06T19:25:00+05:30",
+      "winner": null,
+      "submissions": []
+    },
+    {
+      "id": 19,
+      "team1": "KKR",
+      "team2": "LSG",
+      "deadline": "2025-04-07T15:25:00+05:30",
+      "winner": null,
+      "submissions": []
+    }
+  ]
+}
